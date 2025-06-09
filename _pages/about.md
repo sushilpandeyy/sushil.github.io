@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Sushil Pandey – Software Engineer | GSoC '25 | SRM University"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## About Me
 
 I am currently pursuing a B.Tech in Computer Science and Engineering with a specialization in AI and ML at SRM University, Andhra Pradesh. My interests include systems programming, backend development, and applied machine learning.
 
