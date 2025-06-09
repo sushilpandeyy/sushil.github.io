@@ -1,49 +1,81 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Sushil Pandey – Software Engineer | GSoC '25 | Full Stack | AI/ML"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi, I’m **Sushil Pandey** — a Final Year CSE (AI/ML) undergrad from SRM University AP.  
+I specialize in **Full Stack Development**, **AI Systems**, and **Open Source Kernel Programming**.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+---
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+### 👨‍💻 Key Highlights
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **GSoC 2025 @ Linux Foundation**  
+  Enhancing OpenAFS kernel module for better memory performance with multi-page folio support.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **Research Intern, SRM University AP**  
+  Built **Korosuke** – a secure enterprise retrieval framework that won a **Gold Medal** for innovation.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- **Full Stack Intern, Myraa Technologies**  
+  Created and deployed **FlocHealth** (AI-based healthcare-insurance app) for 10K+ users.
 
-**Markdown generator**
+---
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+### 🚀 Projects Worth Checking
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- [**NyxAPI**](https://github.com/sushilpandeyy/NyxAPI) – Mock API Generator  
+  <img src="https://blog.contactsushil.me/static/images/nyxapifirstinp.png" width="300"/>  
+  Built with React & PostgreSQL to spin up customizable mock APIs for dev teams.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+- [**Korosuke**](https://blog.contactsushil.me/blog/korosukefirst/) – Secure AI Enterprise Search  
+  <img src="https://blog.contactsushil.me/static/images/Korosukefirstflow.jpeg" width="300"/>  
+  Built in FastAPI, this tool ensures security-aware semantic search in orgs.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- [**Qliq**](https://devfolio.co/projects/quilq-39ee) – Web3 Ad Platform  
+  <img src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fbeea3a652dd04c86b1890bd76bca5451%2Fprojects%2F40957aac2dd14f08ba4229ae91bd6391%2F7e784994-fd12-474c-8bb6-01bc0454c2d6.jpeg&w=1440&q=75" width="300"/>  
+  Decentralized ad delivery using NFTs, Solidity, React, and IPFS.
+
+---
+
+### 🛠️ Tech Stack (Most Used)
+
+- **Frontend**: React, Next.js, Tailwind, MUI  
+- **Backend**: FastAPI, Node.js, Tornado, Express  
+- **Databases**: PostgreSQL, MongoDB, Neo4J  
+- **Cloud & DevOps**: AWS (EC2, Lambda, S3), Docker, GitHub Actions  
+- **Other**: Solidity, Git, Redux, Web3.js, Firebase
+
+---
+
+### 🎓 Education
+
+**SRM University, AP**  
+*B.Tech in CSE (AI & ML), 2022–2026*  
+Courses: Data Structures, OOP, OS, DBMS, Networks
+
+---
+
+### 🏆 Certifications
+
+- [Flipkart Grid 5.0](https://unstop.com/certificate-preview/18b0ed89-d7a7-483d-a18b-5416c1c097ad) – DSA & Problem Solving  
+- [Angela Yu Web Dev Bootcamp](https://www.udemy.com/certificate/UC-78169afe-f46b-4fdf-9812-802a737b84d9/) – MERN Stack  
+- [Codegoda by Agoda](https://unstop.com/certificate-preview/d3d54e02-0e52-4755-9994-d018ec033ab5) – Algorithms
+
+---
+
+### 💼 Open to Work
+
+Feel free to reach out for opportunities or collaborations.
+
+- 🌐 [contactsushil.me](https://contactsushil.me)  
+- 📧 [contact.sushilpandeyy@gmail.com](mailto:contact.sushilpandeyy@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/contactsushil)  
+- 💻 [GitHub](https://github.com/sushilpandeyy)
+
+---
+
+
