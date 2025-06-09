@@ -14,14 +14,11 @@ main:
   - title: "Projects"
     url: projects/
 
-  - title: "Projects"
-    url: projects/
+  - title: "Articles"
+    url: articles/
     
   - title: "CV"
     url: /files/Sushi_Pandey.pdf
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
