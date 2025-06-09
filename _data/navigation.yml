@@ -9,22 +9,10 @@
 
 main:
   - title: "Projects"
-    url: /Projects/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+    url: projects/
     
   - title: "CV"
-    url: /cv/
+    url: /files/sushil_pandey.pdf/
     
   # - title: "CV"
   #   url: /cv-json/
