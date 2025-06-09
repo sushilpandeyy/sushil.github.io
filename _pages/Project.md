@@ -57,6 +57,7 @@ Qliq is a decentralized ad network leveraging NFT metadata for targeted advertis
 - Built for transparency and creator ownership  
 
 [View on GitHub](https://github.com/sushilpandeyy/Korosuke)
+
 ---
 
 ## Skoop  
