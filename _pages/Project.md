@@ -11,7 +11,9 @@ I built cUrlBaby because my MacBook had limited memory, and Postman was a resour
 - Replicates essential Postman features via command line  
 - Supports all HTTP methods and JSON formatting  
 - Ideal for developers who love minimal tools  
+
 [View on GitHub](https://github.com/sushilpandeyy/curlbaby)
+
 
 ---
 
@@ -22,8 +24,12 @@ NyxAPI was born out of the need for backend devs to visualize and plan their API
 - Instantly generates live mock APIs  
 - Built-in dashboard to manage routes and responses  
 - Great for rapid prototyping and team handoffs  
+
 [View on GitHub](https://github.com/sushilpandeyy/NyxAPI)
 
+### Articles Related
+* [Start of Appwrite Hackathon 2024](https://blog.contactsushil.me/blog/appwriteinit/)
+* [Building on NyxAPI - Progress Update](https://blog.contactsushil.me/blog/appwriteintegrate/)
 ---
 
 ## Korosuke  
@@ -33,7 +39,12 @@ Most RAG systems don't respect organizational hierarchy or access control. Koros
 - Access-controlled embeddings and profile awareness  
 - Ranks results adaptively based on user role  
 - Built for enterprise-grade security and relevance  
-[Read Blog](https://blog.contactsushil.me/blog/korosukefirst/)
+
+[View on GitHub](https://github.com/sushilpandeyy/Korosuke)
+
+### Articles Related
+* [Korosuke: A Hardware Device for Centralized Organizational Information Access](https://blog.contactsushil.me/blog/korosukefirst/)
+* [Korosuke Part 2: From Concept to Research Paper](https://blog.contactsushil.me/blog/korosuke-9th-research-paper/)
 
 ---
 
@@ -44,8 +55,8 @@ Qliq is a decentralized ad network leveraging NFT metadata for targeted advertis
 - Uses NFTs to carry metadata for personalized promotions  
 - No intermediaries, no gatekeepers  
 - Built for transparency and creator ownership  
-[View on Devfolio](https://devfolio.co/projects/quilq-39ee)
 
+[View on GitHub](https://github.com/sushilpandeyy/Korosuke)
 ---
 
 ## Skoop  
@@ -55,7 +66,8 @@ Skoop was built to give users control over what they read, away from mainstream 
 - ML-based content personalization  
 - News from decentralized sources  
 - Built for freedom of information  
-[View on GitHub](https://github.com/sushilpandeyy/skoop)
+
+[View on GitHub](https://github.com/sushilpandeyy/Qliq)
 
 ---
 
@@ -66,7 +78,8 @@ Fascia was a personal playground where I explored how data flows and visualizes 
 - Real-time data visualization  
 - Modular dashboard components  
 - Built with MERN + Material UI  
-[Live Preview](https://fascia-nu.vercel.app)
+
+[View on GitHub](https://github.com/sushilpandeyy/Fascia)
 
 ---
 
@@ -77,7 +90,11 @@ I created this player to listen to my favorite Desi Hip Hop songs without ads or
 - Fetches and streams music via S3  
 - Built specifically for Desi Hip Hop fans  
 - Minimalist, no-login music player  
-[Live App](https://ihh.contactsushil.me)
+
+[View on GitHub](https://github.com/sushilpandeyy/IHHPlayer)
+
+### Articles Related
+* [Importing MP3 From Youtube to S3 Bucket](https://medium.com/@contactsushil/importing-youtube-music-to-aws-s3-with-python-ed6427c710a0)
 
 ---
 
@@ -88,4 +105,9 @@ Diss-Tract is a Chrome extension that blocks distracting sites like social media
 - Website blocker and productivity tracker  
 - Helps students and remote workers stay focused  
 - Built using vanilla JS, HTML, and CSS  
-[View on Chrome Web Store](https://chrome.google.com/webstore/detail/disstract/pglfgdgdfkkklgfiikjilgjdbpfmioli)
+
+[View on GitHub](https://github.com/sushilpandeyy/HackSRM4.0)
+
+### Articles Related
+* [Building My First Chrome Extension](https://medium.com/@contactsushil/building-my-first-chrome-extension-8b97594494ec)
+* [Experience of Participating in Online Hackathon](https://medium.com/@contactsushil/experience-of-participating-in-online-hackathon-c58987dc45ea)

@@ -4,17 +4,17 @@ title: "Experience"
 author_profile: true
 ---
 
-# Experience
-
 ## Google Summer of Code – OpenAFS  
 **Contributing Developer**  
 *May 2025 – Present*  
-Selected for GSoC 2025 under the Linux Foundation to enhance OpenAFS, a distributed file system used by academic and enterprise environments. My work focuses on modernizing its Linux kernel module for better memory efficiency.
+Selected for GSoC 2025 under the OpenAFS org, a distributed file system used by academic and enterprise environments. My work focuses on modernizing its Linux kernel module for better memory efficiency.
 
 - Implemented multi-page folio support to boost memory performance and reduce I/O overhead  
 - Developed cross-version testing tools for the Linux kernel  
 - Focused on compatibility, performance, and maintainability of legacy codebase  
-<!-- Optional future link: [Project Write-up or Blog](#) -->
+
+### Articles Related
+* [Building OpenAFS from Source: A Complete Setup Guide](https://medium.com/@contactsushil/gsoc-2025-setting-up-openafs-for-multi-page-folio-development-08de93d89498)
 
 ---
 
@@ -26,7 +26,11 @@ Worked under Dr. Manikandan to develop **Korosuke**, a security-aware retrieval 
 - Created hierarchical, access-aware embeddings using Python and vector search  
 - Designed an adaptive re-ranking algorithm balancing relevance and access control  
 - Published internal research on utility-driven enterprise retrieval systems  
-[Read About Korosuke](https://blog.contactsushil.me/blog/korosukefirst/)
+
+### Articles Related
+* [Korosuke: A Hardware Device for Centralized Organizational Information Access](https://blog.contactsushil.me/blog/korosukefirst/)
+* [Korosuke Part 2: From Concept to Research Paper](https://blog.contactsushil.me/blog/korosuke-9th-research-paper/)
+
 
 ---
 
@@ -38,5 +42,6 @@ Joined the early-stage startup to architect and deploy a full-fledged health and
 - Built backend using Tornado (Python), integrated Neo4j for graph-based risk models  
 - Developed disease prediction logic and policy recommendation engine  
 - Deployed entire solution on AWS EC2, serving 10,000+ users in pilot rollout  
-<!-- Optional future link: [Product Launch or Write-up](#) -->
 
+### Articles Related
+* [Full Stack Development Intern Experience](https://medium.com/@contactsushil/full-stack-development-intern-experience-e5bf1a3625bb)
