@@ -13,7 +13,7 @@ Selected for GSoC 2025 under the OpenAFS org, a distributed file system used by 
 - Developed cross-version testing tools for the Linux kernel  
 - Focused on compatibility, performance, and maintainability of legacy codebase  
 
-### Articles Related
+### Related Articles
 * [Building OpenAFS from Source: A Complete Setup Guide](https://medium.com/@contactsushil/gsoc-2025-setting-up-openafs-for-multi-page-folio-development-08de93d89498)
 
 ---
@@ -27,7 +27,7 @@ Worked under Dr. Manikandan to develop **Korosuke**, a security-aware retrieval 
 - Designed an adaptive re-ranking algorithm balancing relevance and access control  
 - Published internal research on utility-driven enterprise retrieval systems  
 
-### Articles Related
+### Related Articles
 * [Korosuke: A Hardware Device for Centralized Organizational Information Access](https://blog.contactsushil.me/blog/korosukefirst/)
 * [Korosuke Part 2: From Concept to Research Paper](https://blog.contactsushil.me/blog/korosuke-9th-research-paper/)
 
@@ -43,5 +43,5 @@ Joined the early-stage startup to architect and deploy a full-fledged health and
 - Developed disease prediction logic and policy recommendation engine  
 - Deployed entire solution on AWS EC2, serving 10,000+ users in pilot rollout  
 
-### Articles Related
+### Related Articles
 * [Full Stack Development Intern Experience](https://medium.com/@contactsushil/full-stack-development-intern-experience-e5bf1a3625bb)

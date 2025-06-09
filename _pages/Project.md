@@ -27,7 +27,7 @@ NyxAPI was born out of the need for backend devs to visualize and plan their API
 
 [View on GitHub](https://github.com/sushilpandeyy/NyxAPI)
 
-### Articles Related
+### Related Articles
 * [Start of Appwrite Hackathon 2024](https://blog.contactsushil.me/blog/appwriteinit/)
 * [Building on NyxAPI - Progress Update](https://blog.contactsushil.me/blog/appwriteintegrate/)
 ---
@@ -42,7 +42,7 @@ Most RAG systems don't respect organizational hierarchy or access control. Koros
 
 [View on GitHub](https://github.com/sushilpandeyy/Korosuke)
 
-### Articles Related
+### Related Articles
 * [Korosuke: A Hardware Device for Centralized Organizational Information Access](https://blog.contactsushil.me/blog/korosukefirst/)
 * [Korosuke Part 2: From Concept to Research Paper](https://blog.contactsushil.me/blog/korosuke-9th-research-paper/)
 
@@ -93,7 +93,7 @@ I created this player to listen to my favorite Desi Hip Hop songs without ads or
 
 [View on GitHub](https://github.com/sushilpandeyy/IHHPlayer)
 
-### Articles Related
+### Related Articles
 * [Importing MP3 From Youtube to S3 Bucket](https://medium.com/@contactsushil/importing-youtube-music-to-aws-s3-with-python-ed6427c710a0)
 
 ---
@@ -108,6 +108,6 @@ Diss-Tract is a Chrome extension that blocks distracting sites like social media
 
 [View on GitHub](https://github.com/sushilpandeyy/HackSRM4.0)
 
-### Articles Related
+### Related Articles
 * [Building My First Chrome Extension](https://medium.com/@contactsushil/building-my-first-chrome-extension-8b97594494ec)
 * [Experience of Participating in Online Hackathon](https://medium.com/@contactsushil/experience-of-participating-in-online-hackathon-c58987dc45ea)
